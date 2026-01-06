@@ -1,0 +1,13 @@
+# Ignore large genomic data files
+*.csv
+*.vcf
+*.matrix
+
+# Ignore the data directory
+data/
+
+# Python environment files
+__pycache__/
+*.pyc
+venv/
+.env
